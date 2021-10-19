@@ -14,7 +14,7 @@ if __name__ == "__main__" :
         root="MT_ID_Bot"
     )
     mt_botz = Client(
-        "MT ID BOT",
+        "DB BOTZ",
         bot_token=Config.BOT_TOKEN,
         api_id=Config.API_ID,
         api_hash=Config.API_HASH,
