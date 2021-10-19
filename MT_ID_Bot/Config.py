@@ -11,7 +11,7 @@ class Config(object):
     API_HASH = os.environ.get("API_HASH", "")
 
 
-    UPDATE_CHANNEL = os.environ.get("UPDATE_CHANNEL", "mo_tech_YT")
+    UPDATE_CHANNEL = os.environ.get("UPDATE_CHANNEL", "DB_BOTZ")
 
 
-    BOT_USERNAME = os.environ.get("BOT_USERNAME", "mt_id_Bot")
+    BOT_USERNAME = os.environ.get("BOT_USERNAME", "DB_BOTZ_Bot")
