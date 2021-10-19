@@ -29,57 +29,53 @@ Bshjsjajajsskskskskass
 """
 
     ABOUT_MSG = """
-<u>🤖 𝐌𝐲 𝐍𝐚𝐦𝐞</u> : <a href='https://t.me/{}'>𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐁𝐨𝐭</a> 
+<u>🤖 My name</u> : <a href='https://t.me/{}'>DB INFORMATION BOT</a> 
   
-<u>📝 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞</u> : <a href='https://www.python.org/'>𝐏𝐲𝐭𝐡𝐨𝐧3</a>
+<u>📝 language</u> : <a href='https://www.python.org/'>python 3</a>
 
-<u>🧰 𝐅𝐫𝐚𝐦𝐞𝐖𝐨𝐫𝐤</u> : <a href='https://github.com/pyrogram/pyrogram'>𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦</a>
+<u>🧰 Frame work</u> : <a href='https://github.com/pyrogram/pyrogram'>𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦</a>
 
-<u>👨‍💻 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</u> : <a href='t.me/{}'>@𝐏𝐑0𝐅𝐄𝐒𝐒0𝐑_99</a>
+<u>👨‍💻 Developer</u> : <a href='t.me/{}'>@MR_LUCIFER_DEVIL</a>
 
-<u>👨‍💻 𝐂𝐨 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</u> : <a href='https://t.me/{}' >@𝐌𝐑_𝐉𝐈𝐍𝐍_𝐎𝐅_𝐓𝐆</a>
+<u>👨‍💻 Co Developler</u> : <a href='https://t.me/{}' >@MR_LUCIFER_KILLER</a>
 
-<u>👥 𝐆𝐫𝐨𝐮𝐩</u> :   <a href='t.me/{}'>𝐌𝐓 𝐂𝐡𝐚𝐭𝐬</a>
+<u>👥 group</u> :   <a href='t.me/{}'>DB CHATS</a>
  
-<u>📢 𝐂𝐡𝐚𝐧𝐧𝐞𝐥</u> : <a href='t.me/{}'>𝐌𝐓 𝐔𝐩𝐝𝐚𝐭𝐞𝐬</a>
+<u>📢 CHANNEL</u> : <a href='t.me/{}'>DB UPDATES</a>
 
-<u>❣️ 𝐘𝐨𝐮𝐓𝐮𝐛𝐞</u> : <a href='https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ'>𝐒𝐮𝐛𝐬𝐜𝐫𝐢𝐛𝐞 𝐍𝐨𝐰</a>
-
-<u>🔘 𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞</u> : <a href='{}'>𝐏𝐫𝐞𝐬𝐬 𝐌𝐞🙃</a>
+<u>🔘 SOURCE CODE😀</u> : <a href='{}'>https://telegra.ph/file/c59c590677fe936ae5e89.jpg</a>
 """
 
     JOIN_TEXT = """
-📢 𝐉𝐨𝐢𝐧 𝐌𝐲 𝐔𝐩𝐝𝐚𝐭𝐞 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 📢
+📢 JOIN THE UPDATE CHANNEL 📢
 """
  
     TRY_TEXT = """
-🔃 𝐑𝐞𝐒𝐭𝐚𝐫𝐭 𝐍𝐨𝐰 🔃
+🔃 RESTART NOE 🔃
 """
 
     FSUB_TEXT = """
-📢 𝐉𝐨𝐢𝐧 𝐌𝐲 𝐔𝐩𝐝𝐚𝐭𝐞 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 𝐓𝐡𝐞𝐧 𝐔𝐬𝐞 𝐓𝐡𝐢𝐬 𝐁𝐨𝐭 📢
+📢 JOIN MY UPDATE CHANNEL TO USE ME  📢
 """
 
     ID_TEXT = """
-🆔 𝐘𝐨𝐮𝐫 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐈𝐃 𝐢𝐬 :- <code>{}</code>
+🆔 YOUR TELEGRAM ID😎😎  :- <code>{}</code>
 """
 
     INFO_TEXT = """
-<u>💫 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧</u>
+<u>💫 TELEGRAM INFORMATION </u>
 
- 🙋🏻‍♂️ 𝐅𝐢𝐫𝐬𝐭 𝐍𝐚𝐦𝐞 : <b>{}</b>
+ 🙋🏻‍♂️ FIRST NAME : <b>{}</b>
 
- 🧖‍♂️ 𝐒𝐞𝐜𝐨𝐧𝐝 𝐍𝐚𝐦𝐞 : <b>{}</b>
+ 🧖‍♂️ SECOND NAME : <b>{}</b>
 
- 🧑🏻‍🎓 𝐔𝐬𝐞𝐫𝐍𝐚𝐦𝐞 : <b>@{}</b>
+ 🧑🏻‍🎓 USERNAME : <b>@{}</b>
 
- 🆔 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐈𝐃 : <code>{}</code>
+ 🆔 TELEGRAM ID  : <code>{}</code>
 
- 🌌 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 𝐋𝐢𝐧𝐤 : <b>{}</b>
+ 🌍 DC : <b>{}</b>
 
- 🌍 𝐃𝐂 : <b>{}</b>
+ 🎤 LANGUAGE  : <b>{}</b>
 
- 🎤 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 : <b>{}</b>
-
- 🤠 𝐒𝐭𝐚𝐭𝐮𝐬 : <b>{}</b>
+ 🤠 STATUS : <b>{}</b>
 """
