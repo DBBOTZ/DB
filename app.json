@@ -1,7 +1,7 @@
 {
     "name": "Id Bot",
-    "description": "A Id Bot by @MRK_YT",
-    "logo": "https://telegra.ph/file/9e831d15da94deb56ef4c.png",
+    "description": "A Id Bot by @DB_BOTZ",
+    "logo": "https://telegra.ph/file/66a275e1302da58a2db54.jpg",
     "keywords": [
         "Telegram",
         "Id",
@@ -16,7 +16,7 @@
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API Hash From https://youtu.be/5eEsvLAKVc0 or @MT_MyTelegramOrg_Bot",
+            "description": "Your API Hash From https://my.telegram.org/auth",
             "value": ""
         },
         "BOT_TOKEN": {
@@ -24,11 +24,11 @@
             "value": ""
         },
         "UPDATE_CHANNEL": {
-            "description": "Channel User Name Without @ Eg Mo_Tech_YT",
-            "value": "Mo_Tech_YT"
+            "description": "Channel User Name Without @ Eg DB_BOTZ",
+            "value": "DB_BOTZ"
         },
         "BOT_USERNAME": {
-            "description": "Bot UserName From (https://youtu.be/cB4UduCcNWs) Without @ ",
+            "description": "Bot UserName From (FROM @BotFather) Without @ ",
             "value": ""
         }
     },
